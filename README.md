@@ -5,7 +5,7 @@
 
 🌱 Learning about: **Software Engineering.**
 
-💬 Ask me about: **PL/SQL, Java, C\C++.**
+💬 Ask me about: **PL/SQL, Java, C/C++.**
 
 
 <h3 align="left">Connect with me:</h3>
