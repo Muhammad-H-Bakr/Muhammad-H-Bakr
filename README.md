@@ -7,7 +7,7 @@
 
 💻 Currently Learning: **MERN Stack.**
 
-💬 Ask me about: **SQL/PLSQL, Java, C++ (MPI)**
+💬 Ask me about: **SQL/PLSQL, Java, C/C++.**
 
 
 
