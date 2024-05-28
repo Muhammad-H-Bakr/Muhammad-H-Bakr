@@ -1,14 +1,11 @@
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
-<h1 align="center">The name is Bakr.</h1>
-<h3 align="center">A Junior CS Student at FSCU.</h3>
+<h1 align="center">Hi 👋, I'm Bakr!</h1>
+<h3 align="center">I'm a Junior CS Student at FSCU.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/j_2Z3xQ30fkAAAAC/tenor.gif">
 
-🌱 Aiming to learn: **Software Engineering.**
+🌱 Learning about: **Software Engineering.**
 
-💻 Currently Learning: **MERN Stack.**
-
-💬 Ask me about: **SQL/PLSQL, Java, C/C++.**
-
+💬 Ask me about: **PL/SQL, Java, C/C++.**
 
 
 <h3 align="left">Connect with me:</h3>
