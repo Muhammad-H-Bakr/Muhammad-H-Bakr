@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Code Status</h3>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MHBakr/69b00bca-8007-4db5-98c1-eddae7cce215.png" /></a>
+<a href="https://wakatime.com/@MHBakr"><img src="https://wakatime.com/share/@MHBakr/69b00bca-8007-4db5-98c1-eddae7cce215.png" /></a>
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Muhammad-H-Bakr">
