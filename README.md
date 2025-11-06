@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="100%" />
 <h1 align="center">Hi ✨, I'm Bakr!</h1>
 <h3 align="center">I'm a Senior CS Student at FSCU.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Fv2ViqnMFjAAAAAC/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1yf9msgyI4PvV-Dgu8kC3APO_n6jJ9g8N/view?usp=drivesdk
 
 🌱 Learning about: **Software Engineering.**
 
